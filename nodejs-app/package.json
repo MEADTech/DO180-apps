@@ -9,8 +9,7 @@
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
-    "express": "4.14.x",
-    "html-errors": "latest",
+    "express": "4.x",
     "http-error": "latest"
   }
 }
